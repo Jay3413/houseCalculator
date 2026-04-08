@@ -30,6 +30,8 @@
 設計/外觀
 - 使用 `Segoe UI` 為主要字型，結果區使用等寬字型 `Consolas` 提高對齊可讀性。
 - 視窗已設定為固定對話框，並調整控制項間距與顏色以提升可視性。
+- <img width="678" height="421" alt="image" src="https://github.com/user-attachments/assets/552dd2bc-074d-4215-b411-d6485770d2bd" />
+
 
 修改程式碼提示
 - 若要更改輸出內容或格式，請編輯 `Form1.cs` 中的 `btnCalculate_Click` 方法。
